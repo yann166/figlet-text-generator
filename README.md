@@ -45,7 +45,7 @@ For more font examples, visit the [FIGlet Fonts Examples](https://www.figlet.org
 
 Watch the project demonstration below.
 
-[Add your demo video here]
+https://github.com/user-attachments/assets/b1bd14fb-805e-4de7-8349-f44c1cd0bffa
 
 ## Author
 
